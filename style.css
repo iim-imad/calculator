@@ -1,0 +1,20 @@
+.display {
+   border: 1px solid black;
+   display: inline-block;
+   width: 268px;
+   margin-bottom: 10px;
+   padding-left: 8px;
+}
+
+.nums {
+   margin-bottom: 5px;
+}
+
+.text {
+   margin: 0;
+   display: inline-block;
+}
+
+.input {
+   opacity: 0.5;
+}
